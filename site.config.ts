@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  QQ: '2294095459',
+  qq: '2294095459',
   github: 'transitive-bullshit',
-  WeChat: '小李呀',
+  wechat: '小李呀',
 
 
   // default notion icon and cover images for site-wide consistency (optional)
